@@ -1,0 +1,17 @@
+{
+  "name": "sgd-test",
+  "version": "0.0.1",
+  "engines": {
+    "node": "0.10.x",
+    "npm": "3.8.x"
+  },
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "request": "^2.72.0"
+  }
+}
